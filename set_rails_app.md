@@ -1,9 +1,9 @@
-##Create new rails app
-1.rails new app_name  #open terminal
-2.rails server
-3.localhost 					#open Browser
+#Create new rails app
+1.rails new app_name  #open terminal  
+2.rails server  
+3.localhost 					#open Browser  
 
-##Set files
+#Set files
 ./app/controllers/users_controller.rb
 ```ruby
 class UsersController < ApplicationController
