@@ -12,7 +12,7 @@ class UsersController < ApplicationController
 end
 ```
 ***
-./app/views/index.html.erb
+./app/views/users/index.html.erb
 ```html
 <h1>Hello World</h1>
 ```
