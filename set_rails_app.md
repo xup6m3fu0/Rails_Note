@@ -4,11 +4,11 @@
 3.http://localhost:3000 					  
 
 #Setting Files
->Note:  
->>Step1.  Create names_controller.rb
->>>!! class name must call NamesController
->>Step2.  Create names Folder
->>step3.  Create name of method of names_controller.rb , html.erb
+
+>Step1.  Create names_controller.rb
+>>!! class name must call NamesController  
+>Step2.  Create names Folder  
+>step3.  Create name of method of names_controller.rb , html.erb  
 
 ***
 ./app/controllers/users_controller.rb
