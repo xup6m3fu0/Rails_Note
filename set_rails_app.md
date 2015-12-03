@@ -5,8 +5,8 @@
 
 #Setting Files
 
->Step1.  Create names_controller.rb
->>!! class name must call NamesController 
+Step1.  Create names_controller.rb
+>!! class name must call NamesController 
 
 Step2.  Create names Folder
 
