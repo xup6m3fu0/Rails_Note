@@ -11,7 +11,7 @@ Step1.  Create names_controller.rb
 Step2.  Create names Folder
 
 step3.  Create name of method of names_controller.rb , html.erb  
-
+>example:index.html.erb
 ***
 ./app/controllers/users_controller.rb
 ```ruby
