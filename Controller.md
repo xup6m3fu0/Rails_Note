@@ -11,8 +11,6 @@ class AppsController < ApplicationController
 
   def show 
     @app=App.find(params[:id])
-    @comments=app.comments
-    @comment=Comment.new
   end
 
   def new   #submit to create 
